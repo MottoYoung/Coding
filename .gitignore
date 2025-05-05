@@ -3,5 +3,10 @@
 *.png
 *.gif
 *.svg
-
-
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pkl
+CVexperiment/football_tracking/training/football-players-detection-1/
+**/football-players-detection-1/**
