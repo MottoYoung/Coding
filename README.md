@@ -1,1 +1,1 @@
-# This is a folder to store CV test
+# This is a folder to store CV experiments.
